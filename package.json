@@ -1,0 +1,33 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv2js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhairavi21/Javascript_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhairavi21/Javascript_learning/issues"
+  },
+  "homepage": "https://github.com/Bhairavi21/Javascript_learning#readme"
+}
+{
+  "name":        "line-reader",
+  "version":     "0.3.0",
+  "description": "Asynchronous line-by-line file reader",
+  "url":         "https://github.com/nickewing/line-reader",
+  "keywords":    ["file", "line", "reader", "scanner"],
+  "author":      "Nick Ewing <nick@nickewing.net>",
+  "directories": {"lib" : "./lib"},
+  "main":        "./lib/line_reader",
+  "repository": {
+    "type": "git",
+    "url": "https://nickewing@github.com/nickewing/line-reader.git"
+  }
+}
